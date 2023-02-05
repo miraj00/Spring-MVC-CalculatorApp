@@ -38,7 +38,7 @@
 	  <br> <br>
 	  
 
-	  <p>Rating :</p>
+	  <p>Operation :</p>
 	  <input type="radio" id="plus" name="operation" value="plus">
 	  <label for="plus">plus</label><br>
 	  <input type="radio" id="minus" name="operation" value="minus">
