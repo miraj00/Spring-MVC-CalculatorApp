@@ -25,7 +25,7 @@
     <h3> num_two : ${num_two} </h3>
 	<h3> Operation : ${operation} </h3>
     <h3> Math Result : ${total} </h3>
-	
+
 	
 	<a href="/">Back to Homepage </a> 
 	<br> <br>
