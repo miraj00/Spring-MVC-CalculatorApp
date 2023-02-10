@@ -51,7 +51,7 @@
 	  	  
 	  <input type="submit" value="Submit">
 	  &nbsp; &nbsp;
-	  <a href="/">Go back to HomePage </a>  
+	   
        
 	</form>
 	
