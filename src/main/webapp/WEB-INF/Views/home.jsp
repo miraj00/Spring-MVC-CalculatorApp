@@ -55,6 +55,37 @@
        
 	</form>
 	
+	
+	
+<!-- another option :
+
+<form action="/result">
+		<p>
+			<label for="num_one">First Number</label>
+			<input type="number" name="num_one" id="num_one"/>
+		</p>
+		<p>
+			<label for="num_two">Second Number</label>
+			<input type="number" name="num_two" id="num_two"/>
+		</p>
+		<p>
+			<label>Choose an Operation</label>
+			<ul>
+				<li><label><input type="radio" name="operation" value="plus"/> +</label></li>
+				<li><label><input type="radio" name="operation" value="minus"/> -</label></li>
+				<li><label><input type="radio" name="operation" value="multiply"/> *</label></li>
+				<li><label><input type="radio" name="operation" value="divide"/> /</label></li>
+			</ul>
+		</p>
+		<p>
+			<button type="submit">Submit</button>
+		</p>
+	</form>
+
+ -->	
+	
+	
+	
 </div>		
 
 

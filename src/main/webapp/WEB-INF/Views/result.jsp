@@ -17,7 +17,6 @@
 </head>
 <body>
 
-
 <div class="center">
 
 	<h1> Result  </h1> 
@@ -30,8 +29,26 @@
 	<a href="/">Back to Homepage </a> 
 	<br> <br>
 
-
 </div>
+
+
+<!-- Other Option : 
+
+	<h1>Result</h1>
+	<p>
+		<strong>Operation:</strong> ${ operation }
+	</p>
+	<p>
+		<strong>Result:</strong> ${ mathResult }
+	</p>
+	<p>
+		<a href="/">Return to calculator form</a>
+	</p>
+</body>
+
+
+ -->
+
 
 </body>
 </html>
